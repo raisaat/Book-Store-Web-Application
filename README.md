@@ -2,7 +2,7 @@
 
 *This was a collaborative project between Faraz Khalid, Humayoon Qaimkhani and Raisaat Rashid*
 
-A comprehensive book store web application. Includes a user-friendly UI for both the customer and the admin. Features include:
+A comprehensive commercial-level book store web application. Includes a user-friendly UI for both the customer and the admin. Features include:
 
 * Secure login for the customer and the admin
 * The customer is able to filter thier search on books by different categories, name and price ranges.
