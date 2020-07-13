@@ -12,14 +12,4 @@ A comprehensive commercial-level book store web application. Includes a user-fri
 * The admin is able to add, remove and update books.
 * The admin is able to see all the books in the database.
 
-Languages/frameworks used:
-
-* HTML
-* CSS
-* JavaScript
-* JQuery
-* Bootstrap 4
-* PHP
-* MySQL
-
 *Refer to "CS 6314 - WPL Report.pdf" for more information*
