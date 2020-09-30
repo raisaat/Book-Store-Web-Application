@@ -1,6 +1,6 @@
 # Book-Store-Web-Application
 
-*This was a collaborative project between Faraz Khalid, Humayoon Qaimkhani and Raisaat Rashid*
+*This was a collaborative project between Raisaat Rashid, Faraz Khalid and Humayoon Qaimkhani*
 
 A comprehensive commercial-level book store web application. Includes a user-friendly UI for both the customer and the admin. Features include:
 
